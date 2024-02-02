@@ -1,0 +1,58 @@
+.body {
+    padding-top: 30px;
+    margin-left: 0px;
+}
+.whole {
+    padding-bottom: 200px;
+    background: url(/pictures/22-black-wallpaper.jpg);
+}
+.tech {
+    padding-left: 20px;
+    text-align: justify;
+    padding-top: 200px;
+}
+.tech2 {
+    font-size: 60px;
+    padding-bottom: -30px;
+    color: rgb(96, 96, 175);
+}
+.tech3 {
+    padding-top: -10px;
+    width: 300px;
+    font-size: 20px;
+    color: rgb(96, 96, 175);
+}
+.tech button {
+    background-color: rgb(13, 13, 243);
+    color: white;
+    margin-left: 19px;
+    padding: 9px 16px;
+    border-radius: 18px;
+    border-style: none;
+
+}
+.tech button:hover {
+    cursor: pointer;
+}
+.whole2 {
+    padding-top: 50px;
+    display: flex;
+    background-image: url(/pictures/2102912.jpg);
+    color: white;
+    font-family: "nvrfnshdregular" !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+.img {
+    position: relative;
+}
+.img1 {
+    width: 500px;
+}
+.text2 { 
+    width: 500px;
+    padding-left: 100px;
+}
+.skills {
+    padding-left: 19px;
+}

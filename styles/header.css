@@ -1,0 +1,30 @@
+.heading {
+    background-color: salmon;
+    border-color: gray;
+    color: white;
+    font-weight: 700;
+    font-family: "nvrfnshdregular" !important;
+    height: 40px;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+.h ,
+.t ,
+.a ,
+.s ,
+.c {
+    color: white;
+    text-transform: uppercase;
+}
+.right-section {
+    display: flex;
+}
+.right-section p {
+    margin-left: 40px;
+}
